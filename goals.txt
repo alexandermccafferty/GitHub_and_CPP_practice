@@ -1,0 +1,4 @@
+This project aims to teach me the basics of C++, and game environments with SDL2. 
+Simple movement physics, collision, and of course the game environment/level design.
+I want this to be loadable onto my homebrewed 3ds when complete, hence the C++ to optimize calculations.
+If successful, this will be my first step in porting Risk of Rain classic onto that 3ds in the future.
