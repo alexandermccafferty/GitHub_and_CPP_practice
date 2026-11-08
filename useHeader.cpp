@@ -1,6 +1,11 @@
 #include <iostream>
 #include "header.h"
 
-int main(){
-    doMath(3, 5);
+void combineFunc(){
+    doMath(5, 8);
+    whatUp();
+}
+
+void print(const char* message){
+    std::cout << message << std::endl;
 }
