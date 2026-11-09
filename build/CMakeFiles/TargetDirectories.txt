@@ -1,0 +1,3 @@
+C:/GitHub/GitHub_and_CPP_practice/build/CMakeFiles/mainApp.dir
+C:/GitHub/GitHub_and_CPP_practice/build/CMakeFiles/edit_cache.dir
+C:/GitHub/GitHub_and_CPP_practice/build/CMakeFiles/rebuild_cache.dir

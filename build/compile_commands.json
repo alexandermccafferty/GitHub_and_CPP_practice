@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/GitHub/GitHub_and_CPP_practice/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\mainApp.dir\\vsCodeLinkTest.cpp.obj -c C:\\GitHub\\GitHub_and_CPP_practice\\vsCodeLinkTest.cpp",
+  "file": "C:/GitHub/GitHub_and_CPP_practice/vsCodeLinkTest.cpp",
+  "output": "CMakeFiles/mainApp.dir/vsCodeLinkTest.cpp.obj"
+},
+{
+  "directory": "C:/GitHub/GitHub_and_CPP_practice/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\mainApp.dir\\useHeader.cpp.obj -c C:\\GitHub\\GitHub_and_CPP_practice\\useHeader.cpp",
+  "file": "C:/GitHub/GitHub_and_CPP_practice/useHeader.cpp",
+  "output": "CMakeFiles/mainApp.dir/useHeader.cpp.obj"
+}
+]
